@@ -33,9 +33,9 @@ const Values = () => {
         <button onClick={(e)=>HandelExp(e)} value='/' className='b1'>/</button>
       </div>
       <div>
-      <button onClick={(e)=>HandelExp(e)} value='9'>7</button>
+      <button onClick={(e)=>HandelExp(e)} value='7'>7</button>
       <button onClick={(e)=>HandelExp(e)} value='8'>8</button>
-      <button onClick={(e)=>HandelExp(e)} value='7'>9</button>
+      <button onClick={(e)=>HandelExp(e)} value='9'>9</button>
       <button onClick={(e)=>HandelExp(e)} value='*'>*</button>
       </div>
       <div>
